@@ -1,19 +1,52 @@
-## 💻 Estudante de Informática do IFTO Formoso do Araguaia / Apredendp programação, lógica e tecnologia todos os dias.
-🚀 Em constante evolução, curioso por código e inovação.
-📚 Apredendo, testando e errando até dar certo.
-🧠 Estudo hoje, futuro amanhã.
 
-<!--
-**samuelsilva29-coder/samuelsilva29-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Estudante de Informática
 
-Here are some ideas to get you started:
+Olá! 👋  
+Meu nome é **SEU NOME AQUI** e sou estudante de **Informática**.  
+Este repositório representa meu perfil acadêmico e reúne projetos, estudos e práticas relacionadas à área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Sobre mim
+
+- 🎓 Curso: Informática / Técnico / Graduação (especifique)
+- 🏫 Instituição: Nome da escola ou faculdade
+- 📍 Localização: Cidade - País
+- 💡 Interesses: Programação, Redes, Banco de Dados, Web, etc.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens:**  
+  - Python  
+  - Java  
+  - C / C++  
+  - JavaScript  
+
+- **Web:**  
+  - HTML5  
+  - CSS3  
+
+- **Banco de Dados:**  
+  - MySQL  
+  - SQLite  
+
+- **Ferramentas:**  
+  - Git & GitHub  
+  - VS Code  
+  - Linux / Windows  
+
+---
+
+## 📂 Estrutura do Repositório
+
+```text
+📁 projetos
+ ┣ 📁 algoritmos
+ ┣ 📁 web
+ ┣ 📁 banco_de_dados
+📁 estudos
+ ┣ 📁 logica_de_programacao
+ ┣ 📁 estruturas_de_dados
+README.md
