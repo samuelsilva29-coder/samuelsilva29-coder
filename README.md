@@ -14,4 +14,3 @@ Este repositório representa meu perfil acadêmico e reúne projetos, estudos e 
 - 📍 Localização: Formoso do Araguaia-TO
 - 💡 Interesses: Programação, Redes, Banco de Dados, Web, etc.
 
-
