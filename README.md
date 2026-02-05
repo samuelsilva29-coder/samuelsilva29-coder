@@ -1,4 +1,7 @@
-## Hi there 👋
+## 💻 Estudante de Informática do IFTO Formoso do Araguaia / Apredendp programação, lógica e tecnologia todos os dias.
+🚀 Em constante evolução, curioso por código e inovação.
+📚 Apredendo, testando e errando até dar certo.
+🧠 Estudo hoje, futuro amanhã.
 
 <!--
 **samuelsilva29-coder/samuelsilva29-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
